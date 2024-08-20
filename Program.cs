@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-
+// add comment for 1st commit test
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
